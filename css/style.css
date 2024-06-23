@@ -30,14 +30,14 @@ header {
     text-decoration: none;
 }
 
-.navigaton {
+.navigation {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 40px;
 }
 
-.navigaton li {
+.navigation li {
     list-style: none;
 }
 
