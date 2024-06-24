@@ -74,5 +74,26 @@ header {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    font-size: 4em;
+    font-size: 2em;
+    font-weight: 800;
+    color: darkcyan;
+    font-style: italic;
+}
+
+.sec {
+    position: relative;
+    padding: 100px;
+    background: #112434;
+}
+
+.sec h2{
+    font-size: 3em;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.sec p {
+    font-size: 1em;
+    color: #fff;
+    font-weight: 300;
 }
