@@ -17,7 +17,7 @@ header {
   top: 0;
   left: 0;
   width: 100%;
-  padding: 30px 100px;
+  padding: 10px 70px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -25,7 +25,7 @@ header {
 }
 
 .logo {
-    color: #112434;
+    color: #ffffff;
     font-weight: 700;
     font-size: 1em;
     text-decoration: none;
@@ -45,7 +45,7 @@ header {
 .navigation li a{
     text-decoration: none;
     padding: 6px 15px;
-    color: #112434;
+    color: #feffff;
     border-radius: 20px;
 }
 
@@ -73,11 +73,11 @@ header {
 
 #text {
     position: absolute;
-    top: 50%;
+    top: 60%;
     transform: translateY(-50%);
     font-size: 2em;
     font-weight: 800;
-    color: darkcyan;
+    color: #57a4da;
     font-style: italic;
 }
 
