@@ -72,13 +72,12 @@ header {
 }
 
 #text {
-    position: absolute;
-    top: 60%;
-    transform: translateY(-50%);
-    font-size: 2em;
-    font-weight: 800;
-    color: #57a4da;
-    font-style: italic;
+    position: relative;
+    top: 40%;
+    left: 30%;
+    height:85px;
+    width: 80px;
+    align-content: center;
 }
 
 .sec {
